@@ -15,7 +15,7 @@
           <NuxtLink to="/" class="hover:text-black">Home</NuxtLink>
           <NuxtLink to="/about" class="hover:text-black">About</NuxtLink>
           <NuxtLink to="/services" class="hover:text-black">Services</NuxtLink>
-          <a href="#" class="hover:text-black">Events</a>
+          <NuxtLink to="/events" class="hover:text-black">Events</NuxtLink>
           <NuxtLink to="/contactUs" class="hover:text-black">Contact</NuxtLink>
         </nav>
 
